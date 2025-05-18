@@ -1,2 +1,3 @@
-# Resolve merge conflicts
-conflict
+# References
+
+* octocat 1 😈
